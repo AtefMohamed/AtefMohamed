@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AtefMohamed
-- 👀 I’m interested in Embedded syatems Software  and Hardware design ( ARM , PIC , AVR ). ( KiCAD , Altium , Eagle ).
-- 🌱 I’m currently learning High Speed design guidlines.
+- 👀 I’m interested in Embedded syatems Software  and Hardware design ( ARM , PIC , AVR ). ( Xpedtion, PADS Pro, KiCAD , Altium , Eagle ).
 - 💞️ I’m looking to collaborate on Embedded Systems Project
 
 
